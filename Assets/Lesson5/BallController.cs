@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class BallController : MonoBehaviour {
+public class ScoreText : MonoBehaviour {
 
 	//ボールが見える可能性のあるz軸の最大値
 	private float visiblePosZ = -6.5f;
